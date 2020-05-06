@@ -6,7 +6,7 @@ seus estudos.
 
 # Autores: 
 
-Tulio Resende. Discord: Tulio#4280
+
 
 # He4rt
 
