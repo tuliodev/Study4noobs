@@ -11,3 +11,6 @@ Hoje em dia , com as redes sociais , jogos e tudo mais muitas pessoas tem dificu
 - Se desligue ( Na hora de estudar desligue seu celular, feche seu discord , evite se distrair com qualquer bobeira)
 
 - Tenha pausas ( Estudar muito tempo seguido é difícil , tente dar algumas pausas de 5 minutos por exemplo para descansar)
+
+
+<img src="https://blog.dankicode.com/wp-content/uploads/2018/08/como-manter-o-foco-na-hora-de-programar.png">
