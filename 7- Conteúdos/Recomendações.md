@@ -15,3 +15,5 @@ Quando eu digo conteúdo eu digo locais para estudar então vou mandar uma lista
 6) https://www.casadocodigo.com.br/ -> Um bom lugar para comprar livros para estudar
 
 7) Documentação da sua linguagem -> sempre que estiver estudando uma linguagem e tiver uma dúvida pesquise na documentação e entenda melhor
+
+<img src="https://www.napratica.org.br/app/uploads/2016/03/redes-comunidades-carreira.jpg">
