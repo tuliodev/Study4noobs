@@ -9,3 +9,6 @@ Primeiro oque é produtividade?? Produtividade é render mais em menos tempo, ma
 3 - Horários: Trabalhe com horários fixos, e nesses horários seu foco é so fazer as tarefas 
 
 4 - Técnica de pomodoro (abordada no capítulo de foco)
+
+
+<img src="https://conteudo.movidesk.com/wp-content/uploads/2019/04/Blog-30-04-Baixa-produtividade-1280x720.jpg">
