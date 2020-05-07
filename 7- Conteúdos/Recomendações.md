@@ -10,4 +10,8 @@ Quando eu digo conteúdo eu digo locais para estudar então vou mandar uma lista
 
 4) https://www.youtube.com/ -> Tem muitos cursos bons grátis no youtube , um que recomendo bastante é o curso em vídeo
 
-5) Documentação da sua linguagem -> sempre que estiver estudando uma linguagem e tiver uma dúvida pesquise na documentação e entenda melhor
+5) https://www.amazon.com.br/ -> Você pode assinar amazon e ter acesso a varios ebooks
+
+6) https://www.casadocodigo.com.br/ -> Um bom lugar para comprar livros para estudar
+
+7) Documentação da sua linguagem -> sempre que estiver estudando uma linguagem e tiver uma dúvida pesquise na documentação e entenda melhor
