@@ -17,6 +17,4 @@ seus estudos.
 </table>
 
 
-# He4rt
 
-Discord da He4rt Devs: https://discord.gg/sR2CYMs
